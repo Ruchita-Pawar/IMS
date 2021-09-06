@@ -1,2 +1,2 @@
 # IMS
-Inventory Management System which 
+Inventory Management System 
